@@ -2,7 +2,6 @@
 The Legacy of Chaotic smp original 10
 <html>
 <head>
-<title>Csmp original 10 Legacy</title>
 </head>
 <body>
 
